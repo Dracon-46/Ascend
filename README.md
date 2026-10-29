@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://dracon-46.github.io/ascend/"><strong>Ascend</strong></a> — o RPG da sua vida real.<br/>
+  <a href="https://dracon-46.github.io/Ascend/"><strong>Ascend</strong></a> — o RPG da sua vida real.<br/>
   Um produto Falkyria.
 </p>
 
@@ -9,9 +9,9 @@ Missões, hábitos, estudos e treinos viram XP, atributos, moedas e conquistas. 
 
 | Plataforma | Onde |
 |---|---|
-| Android | [**Baixar Ascend.apk**](https://github.com/Dracon-46/ascend/releases/latest/download/Ascend.apk) · [todas as versões](https://github.com/Dracon-46/ascend/releases) |
+| Android | [**Baixar Ascend.apk**](https://github.com/Dracon-46/Ascend/releases/latest/download/Ascend.apk) · [todas as versões](https://github.com/Dracon-46/Ascend/releases) |
 | Navegador e iPhone | [falkyria-ascend.onrender.com](https://falkyria-ascend.onrender.com), que pode ser instalado na tela inicial |
-| Site | [dracon-46.github.io/ascend](https://dracon-46.github.io/ascend/) |
+| Site | [dracon-46.github.io/Ascend](https://dracon-46.github.io/Ascend/) |
 
 ### Instalar no Android
 
