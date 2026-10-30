@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/marca/falkyria-marca-branca.svg">
+    <img src=".github/marca/falkyria-marca.svg" alt="Falkyria" width="220">
+  </picture>
+</p>
+
 <a href="https://dracon-46.github.io/Ascend/"><img src="assets/banner.jpg" alt="Ascend — o RPG da sua vida real. Um produto Falkyria." width="100%"></a>
 
 <p align="center">
@@ -106,7 +113,19 @@ Este é o repositório público de **distribuição** do Ascend: guarda o [site]
 
 Encontrou um problema ou tem uma ideia? Abra uma [issue](https://github.com/Dracon-46/Ascend/issues).
 
+## Licença
+
+Ascend é software proprietário da Falkyria. Todos os direitos reservados. Este repositório distribui apenas o site compilado e o app; nada aqui concede licença de uso do código ou da marca. Veja [LICENSE](LICENSE).
+
 <p align="center">
-  <img src="assets/logo.svg" alt="" width="40"><br>
-  <sub><b>Ascend</b> · um produto <b>Falkyria</b> · feito por <a href="https://github.com/Dracon-46">Arthur Gaspare Camzano</a></sub>
+  <img src="assets/logo.svg" alt="" width="40">
+  &nbsp;
+  <a href="https://dracon-46.github.io/Portifolio/#falkyria">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=".github/marca/falkyria-branca.svg">
+      <img src=".github/marca/falkyria.svg" alt="Falkyria" width="40">
+    </picture>
+  </a><br>
+  <sub><b>Ascend</b> · um produto <b>Falkyria</b> · feito por <a href="https://github.com/Dracon-46">Arthur Gaspare Camzano</a></sub><br>
+  <sub>© 2026 Falkyria. Todos os direitos reservados.</sub>
 </p>
